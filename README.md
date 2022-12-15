@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning react and node js
 - 💞️ I’m looking to collaborate on any fullstack project
-- 📫 You can reachme on 2002.rath@gmail.com
+- 📫 You can reachme on work.sbrakeshrath@gmail.com
 
 <!---
 SBRakeshRath/SBRakeshRath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
